@@ -1,0 +1,12 @@
+.idea/
+config/autoload/*.local-development.php
+config/development.config.php
+config/autoload/*.local.php
+config/autoload/local.php
+data/cache/*
+!data/cache/.gitkeep
+/nbproject/
+public/images/*
+!public/images/.gitkeep
+vendor/
+/composer.lock
